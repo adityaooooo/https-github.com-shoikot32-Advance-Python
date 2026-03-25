@@ -1,0 +1,16 @@
+[
+    {
+        "passenger_id": "22",
+        "name": "rsd",
+        "age": 55,
+        "passport": "777",
+        "phone": "05555555555"
+    },
+    {
+        "passenger_id": "22",
+        "name": "asdf",
+        "age": 34,
+        "passport": "3333",
+        "phone": "01233333333"
+    }
+]
