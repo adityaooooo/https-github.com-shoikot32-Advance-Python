@@ -113,16 +113,7 @@ def menu():
             if cancel_update:
                 continue
             
-            #try:
-             #   age = int(age_input) if age_input else passenger.age
-              #  break      
-           
-               
-            #except ValueError:
-             #       print("invalid")
-                    
-            #if age_input == "0":
-             #   continue        
+                
             passport = input(f"Enter new passport ({passenger.passport}): ") or passenger.passport
             if passport == "0":
                 continue
